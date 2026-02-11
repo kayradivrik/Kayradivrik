@@ -1,22 +1,22 @@
-<h1 align="center">👋 Merhaba, ben Kayra</h1>
-<h3 align="center">🎨 Ön Uç Web Geliştiricisi | React • Tailwind • JavaScript</h3>
+<h1 align="center">👋 Hi, I'm Kayra</h1>
+<h3 align="center">🎨 Front-End Web Developer | React • Tailwind • JavaScript</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kayradivrich&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="profil görüntüleme sayacı" />
+  <img src="https://komarev.com/ghpvc/?username=kayradivrich&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views counter" />
 </p>
 
 ---
 
-### 💡 Hakkımda
+### 💡 About Me
 
-🚀 Web teknolojilerini keşfetmeyi ve kullanıcı dostu arayüzler oluşturmayı seviyorum.  
-💻 Şu anda React ve Tailwind CSS ile projeler geliştiriyorum.  
-🌱 Yeni şeyler öğrenmekten asla vazgeçmem — özellikle de performans optimizasyonu ve modern frontend mimarileri hakkında.  
-⚡ Boş zamanlarımda Arduino projeleriyle uğraşır ve tasarım trendlerini takip ederim.  
+🚀 I enjoy exploring web technologies and building user-friendly interfaces.  
+💻 Currently developing projects using React and Tailwind CSS.  
+🌱 I never stop learning — especially about performance optimization and modern frontend architectures.  
+⚡ In my free time, I experiment with Arduino projects and follow the latest design trends.
 
 ---
 
-### 📬 Benimle İletişime Geçin
+### 📬 Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/bytekayra" target="_blank">
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧰 Diller ve Araçlar
+### 🧰 Languages & Tools
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -35,7 +35,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
   </a>
-  <a href="https://developer.mozilla.org/tr-TR/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   </a>
   <a href="https://react.dev" target="_blank">
@@ -66,16 +66,16 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayradivrich&show_icons=true&theme=react&hide_border=true" alt="Kayra'nın GitHub istatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kayradivrich&show_icons=true&theme=react&hide_border=true" alt="Kayra's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayradivrich&theme=react&hide_border=true" alt="GitHub istatistik grafiği" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayradivrich&theme=react&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
 
-✨ *“Küçük detaylar büyük farklar yaratır.”*  
+✨ *“Small details create big differences.”*
