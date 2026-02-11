@@ -19,7 +19,7 @@
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://instagram.com/bytekayra" target="_blank">
+  <a href="https://instagram.com/bytekay_o" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
