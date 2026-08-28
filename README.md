@@ -1,40 +1,28 @@
-# Selam, Ben Kayra 👋
+### Selam, ben Kayra 👋
 
-Full-Stack & Gömülü Sistemler Geliştiricisi | Linux Meraklısı
-
-Ağ temelleri, modern web mimarileri (Next.js, React, Node.js) ve mikrodenetleyiciler (ESP32 / C++) üzerinde projeler geliştiriyorum. Açık kaynak araçları kurcalamayı, sistem optimize etmeyi ve sıfırdan çalışan sistemler inşa etmeyi seviyorum.
+Genelde C++ ile ESP32 tarafında bir şeyler kurcalarken veya Next.js/Node.js ile web projeleri yazarken bulabilirsiniz. Linux kullanıyorum, ağ temellerini öğrenmeye ve sistemi kurcalamaya meraklıyım.
 
 ---
 
-### 🛠️ Teknolojiler & Beceriler
+#### 💻 Nelerle Uğraşıyorum?
 
-**Diller & Backend**
-- C++, Python, JavaScript (ES6+), TypeScript, Go, C#, SQL
-- Node.js, Express.js, Socket.io, Supabase, Sanity.io
-
-**Frontend & Tasarım**
-- React, Next.js, Tailwind CSS, HTML5/CSS3
-
-**Gömülü Sistemler & Donanım**
-- ESP32-WROOM, PlatformIO, ESP-IDF, C++ Web Server & Telemetri Sistemleri
-
-**Sistem, Ağ & Araçlar**
-- Arch Linux, EndeavourOS, Btrfs, Git / GitHub, Docker, Vercel
-- TCP/IP, OSI Katmanları, NAT/DHCP yapılandırmaları, Packet Tracer
+- **Frontend & Web:** React, Next.js, Tailwind CSS, JavaScript, TypeScript
+- **Backend & Servisler:** Node.js, Express.js, Socket.io, Sanity.io, Supabase
+- **Gömülü & Diğer:** C++, Python, ESP32 (PlatformIO / ESP-IDF)
+- **Ortam & Araçlar:** Arch Linux / EndeavourOS, Git, Docker, Packet Tracer
 
 ---
 
-### 📌 Güncel Odak & Projeler
-- 🌐 Gerçek zamanlı web uygulamaları ve headless CMS mimarileri
-- ⚡ ESP32 tabanlı yerel ağ telemetri ve web sunucu sistemleri
-- 🛡️ Ağ protokolleri ve siber güvenlik temelleri
+#### 📌 Son Zamanlarda
+
+- ESP32 üzerinde yerel web sunucu ve telemetri loglama denemeleri
+- Next.js ile blog ve web arayüzleri geliştirme
+- Ağ protokolleri (TCP/IP, paket trafiği) ve temel bilişim güvenliği konuları
 
 ---
 
-### 📬 İletişim & Bağlantılar
-- **Blog:** [kayradannotlar.com](https://kayradannotlar.com)
-- **LinkedIn:** [linkedin.com/in/kullaniciadi](https://linkedin.com)
+#### 🔗 Bağlantılar
+
+- **Kişisel Blog:** [kayradannotlar.com](https://kayradannotlar.com)
+- **LinkedIn:** [linkedin.com/in/profil-linkin](https://linkedin.com)
 - **E-posta:** ornek@email.com
-
----
-*“İlk anla, sonra çöz.”*
