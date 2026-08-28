@@ -1,28 +1,28 @@
-### Selam, ben Kayra 👋
+### Hi, I'm Kayra 👋
 
-Genelde C++ ile ESP32 tarafında bir şeyler kurcalarken veya Next.js/Node.js ile web projeleri yazarken bulabilirsiniz. Linux kullanıyorum, ağ temellerini öğrenmeye ve sistemi kurcalamaya meraklıyım.
+You'll usually find me tinkering with ESP32 projects using C++ or building web applications with Next.js and Node.js. I use Linux and have a keen interest in learning networking fundamentals and exploring system internals.
 
 ---
 
-#### 💻 Nelerle Uğraşıyorum?
+#### 💻 What I Work With
 
 - **Frontend & Web:** React, Next.js, Tailwind CSS, JavaScript, TypeScript
-- **Backend & Servisler:** Node.js, Express.js, Socket.io, Sanity.io, Supabase
-- **Gömülü & Diğer:** C++, Python, ESP32 (PlatformIO / ESP-IDF)
-- **Ortam & Araçlar:** Arch Linux / EndeavourOS, Git, Docker, Packet Tracer
+- **Backend & Services:** Node.js, Express.js, Socket.io, Sanity.io, Supabase
+- **Embedded & Other:** C++, Python, ESP32 (PlatformIO / ESP-IDF)
+- **Environment & Tools:** Arch Linux / EndeavourOS, Git, Docker, Packet Tracer
 
 ---
 
-#### 📌 Son Zamanlarda
+#### 📌 Recent Activities
 
-- ESP32 üzerinde yerel web sunucu ve telemetri loglama denemeleri
-- Next.js ile blog ve web arayüzleri geliştirme
-- Ağ protokolleri (TCP/IP, paket trafiği) ve temel bilişim güvenliği konuları
+- Experimenting with local web servers and telemetry logging on ESP32
+- Developing blogs and web interfaces using Next.js
+- Exploring network protocols (TCP/IP, packet traffic) and cybersecurity fundamentals
 
 ---
 
-#### 🔗 Bağlantılar
+#### 🔗 Links
 
-- **Kişisel Blog:** [kayradannotlar.com](https://kayradannotlar.com)
+- **Personal Blog:** [kayradannotlar.com](https://kayradannotlar.com)
 - **LinkedIn:** [linkedin.com/in/profil-linkin](https://linkedin.com)
-- **E-posta:** ornek@email.com
+- **Email:** ornek@email.com
