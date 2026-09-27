@@ -25,4 +25,4 @@ You'll usually find me tinkering with ESP32 projects using C++ or building web a
 
 - **Personal Blog:** [kayradannotlar.com](https://kayradannotlar.com)
 - **LinkedIn:** [linkedin.com/in/kayradivrik](https://linkedin.com)
--
+- **Personel Website** [kayradivrik.com.tr](https://kayradivrik.com.tr)
